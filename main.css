@@ -25,7 +25,7 @@
 .post {
       flex: 0 1 230px;
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-start;
       align-items: center;
       padding: 1.5rem;
       background-color: rgb(191, 214, 148);
